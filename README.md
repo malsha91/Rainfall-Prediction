@@ -31,6 +31,7 @@ The dataset, sourced from Kaggle, includes features such as temperature, humidit
    - **Random Forest was selected as the best-performing model**, achieving higher accuracy and balanced precision/recall compared to Logistic Regression, SVM, and XGBoost.
    - The chosen model was serialized using **Pickle**, enabling reuse for future rainfall predictions without retraining.
 
+
 ## Results Summary
 - **Logistic Regression**: Served as a baseline, moderate accuracy.  
 - **Random Forest**: Best overall performance, strong accuracy and balanced metrics.  
